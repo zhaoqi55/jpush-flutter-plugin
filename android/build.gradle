@@ -38,6 +38,6 @@ dependencies {
 //    api 'cn.jiguang.sdk:jcore:2.6.0'
 //    implementation 'com.android.support:appcompat-v7:28.+'
     compileOnly files('libs/flutter.jar' )
-    api 'cn.jiguang.sdk:jpush-google:3.9.0'  // 此处以JPush 3.8.6 Google Play版本为例
-    api 'cn.jiguang.sdk:jcore-google:2.6.0'  // 此处以JCore 2.6.0 Google Play 版本为例。
+    api 'cn.jiguang.sdk:jpush-google:3.9.1'
+    api 'cn.jiguang.sdk:jcore-google:2.7.0'
 }
