@@ -38,6 +38,8 @@ dependencies {
 //    api 'cn.jiguang.sdk:jcore:2.6.0'
 //    implementation 'com.android.support:appcompat-v7:28.+'
     compileOnly files('libs/flutter.jar' )
-    api 'cn.jiguang.sdk:jpush-google:3.9.1'
-    api 'cn.jiguang.sdk:jcore-google:2.7.0'
+//    implementation 'cn.jiguang.sdk:jpush:3.'
+//    implementation 'cn.jiguang.sdk:jcore:2.6.0'
+    implementation 'cn.jiguang.sdk:jpush-google:3.9.1'
+    implementation 'cn.jiguang.sdk:jcore-google:2.7.0'
 }
